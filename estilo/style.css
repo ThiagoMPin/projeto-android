@@ -64,7 +64,7 @@ header > p{
 
     max-width: 600px; /*ele vira um bloco com essa configuração, por isso q o text-align para d funcionar e o "margin:auto" é posto logo em seguida*/
     margin: auto;
-    margin-bottom: 30px;
+    padding-bottom: 50px;
     padding-right: 10px;
     padding-left: 10px;
     text-shadow: 2px 2px 0px black;
